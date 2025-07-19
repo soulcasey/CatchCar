@@ -1,0 +1,278 @@
+[
+    {
+        "name": "Elantra",
+        "brand": "Hyundai",
+        "description": "A compact sedan offering modern design and fuel efficiency.",
+        "price": 21000
+    },
+    {
+        "name": "Sonata",
+        "brand": "Hyundai",
+        "description": "A mid-size sedan with great value and features.",
+        "price": 25000
+    },
+    {
+        "name": "Tucson",
+        "brand": "Hyundai",
+        "description": "A stylish compact SUV with tech-focused interior.",
+        "price": 26000
+    },
+    {
+        "name": "Santa Fe",
+        "brand": "Hyundai",
+        "description": "A mid-size SUV with two or three-row options.",
+        "price": 33000
+    },
+    {
+        "name": "K5",
+        "brand": "Kia",
+        "description": "A stylish and sharp mid-size sedan.",
+        "price": 26000
+    },
+    {
+        "name": "Sportage",
+        "brand": "Kia",
+        "description": "A compact SUV with hybrid and gas options.",
+        "price": 27000
+    },
+    {
+        "name": "Carnival",
+        "brand": "Kia",
+        "description": "A premium multi-purpose vehicle offering SUV-like styling.",
+        "price": 37000
+    },
+    {
+        "name": "Telluride",
+        "brand": "Kia",
+        "description": "A premium 3-row SUV with upscale finishes.",
+        "price": 39000
+    },
+    {
+        "name": "Camry",
+        "brand": "Toyota",
+        "description": "A mid-size sedan known for reliability.",
+        "price": 28000
+    },
+    {
+        "name": "Corolla",
+        "brand": "Toyota",
+        "description": "A practical compact sedan.",
+        "price": 22000
+    },
+    {
+        "name": "RAV4",
+        "brand": "Toyota",
+        "description": "A top-selling SUV with hybrid options.",
+        "price": 30000
+    },
+    {
+        "name": "Highlander",
+        "brand": "Toyota",
+        "description": "A family-friendly SUV with 3 rows.",
+        "price": 39000
+    },
+    {
+        "name": "Civic",
+        "brand": "Honda",
+        "description": "A fuel-efficient compact with a modern design.",
+        "price": 23000
+    },
+    {
+        "name": "Accord",
+        "brand": "Honda",
+        "description": "A balanced mid-size sedan for families.",
+        "price": 29000
+    },
+    {
+        "name": "CR-V",
+        "brand": "Honda",
+        "description": "A compact SUV that blends comfort and reliability.",
+        "price": 31000
+    },
+    {
+        "name": "Pilot",
+        "brand": "Honda",
+        "description": "A spacious SUV with 3 rows and AWD.",
+        "price": 40000
+    },
+    {
+        "name": "F-150",
+        "brand": "Ford",
+        "description": "The best-selling truck in America.",
+        "price": 40000
+    },
+    {
+        "name": "Escape",
+        "brand": "Ford",
+        "description": "A small SUV with hybrid options.",
+        "price": 29000
+    },
+    {
+        "name": "Explorer",
+        "brand": "Ford",
+        "description": "A 3-row SUV with good towing power.",
+        "price": 37000
+    },
+    {
+        "name": "Mustang",
+        "brand": "Ford",
+        "description": "An iconic American muscle car.",
+        "price": 32000
+    },
+    {
+        "name": "Silverado",
+        "brand": "Chevrolet",
+        "description": "A tough, full-size truck for work and play.",
+        "price": 36000
+    },
+    {
+        "name": "Equinox",
+        "brand": "Chevrolet",
+        "description": "A flexible compact SUV.",
+        "price": 27000
+    },
+    {
+        "name": "Malibu",
+        "brand": "Chevrolet",
+        "description": "A sleek, budget-friendly sedan.",
+        "price": 25000
+    },
+    {
+        "name": "Blazer",
+        "brand": "Chevrolet",
+        "description": "A sporty midsize SUV with aggressive styling.",
+        "price": 33000
+    },
+    {
+        "name": "Jetta",
+        "brand": "Volkswagen",
+        "description": "A refined compact sedan with a European feel.",
+        "price": 24000
+    },
+    {
+        "name": "Tiguan",
+        "brand": "Volkswagen",
+        "description": "A versatile SUV with optional 3rd row.",
+        "price": 32000
+    },
+    {
+        "name": "Atlas",
+        "brand": "Volkswagen",
+        "description": "A full-size SUV with huge cargo space.",
+        "price": 43000
+    },
+    {
+        "name": "Golf",
+        "brand": "Volkswagen",
+        "description": "A hot hatch with punchy performance.",
+        "price": 31000
+    },
+    {
+        "name": "5 Series",
+        "brand": "BMW",
+        "description": "An executive sedan with punch.",
+        "price": 55000
+    },
+    {
+        "name": "X5",
+        "brand": "BMW",
+        "description": "A premium mid-size SUV.",
+        "price": 61000
+    },
+    {
+        "name": "E-Class",
+        "brand": "Mercedes-Benz",
+        "description": "A luxurious ride with advanced tech.",
+        "price": 55000
+    },
+    {
+        "name": "GLE",
+        "brand": "Mercedes-Benz",
+        "description": "A luxurious SUV with room for the family.",
+        "price": 60000
+    },
+    {
+        "name": "A6",
+        "brand": "Audi",
+        "description": "A refined executive car.",
+        "price": 53000
+    },
+    {
+        "name": "Q5",
+        "brand": "Audi",
+        "description": "A smooth luxury SUV.",
+        "price": 49000
+    },
+    {
+        "name": "Model 3",
+        "brand": "Tesla",
+        "description": "An electric sedan with strong performance.",
+        "price": 39000
+    },
+    {
+        "name": "Model Y",
+        "brand": "Tesla",
+        "description": "A compact SUV with great efficiency.",
+        "price": 47000
+    },
+    {
+        "name": "RX",
+        "brand": "Lexus",
+        "description": "A best-selling luxury SUV.",
+        "price": 51000
+    },
+    {
+        "name": "NX",
+        "brand": "Lexus",
+        "description": "A compact SUV with hybrid options.",
+        "price": 45000
+    },
+    {
+        "name": "G70",
+        "brand": "Genesis",
+        "description": "A sport sedan with luxury touches.",
+        "price": 41000
+    },
+    {
+        "name": "GV80",
+        "brand": "Genesis",
+        "description": "A bold SUV with upscale finishes.",
+        "price": 64000
+    },
+    {
+        "name": "911",
+        "brand": "Porsche",
+        "description": "An iconic sports car with timeless design.",
+        "price": 106000
+    },
+    {
+        "name": "Cayenne",
+        "brand": "Porsche",
+        "description": "A luxury SUV with sports car DNA.",
+        "price": 82000
+    },
+    {
+        "name": "Range Rover",
+        "brand": "Land Rover",
+        "description": "A luxury full-size SUV offering iconic design and off-road prowess.",
+        "price": 96000
+    },
+    {
+        "name": "Defender",
+        "brand": "Land Rover",
+        "description": "An off-road SUV redesigned with modern tech and heritage appeal.",
+        "price": 72000
+    },
+    {
+        "name": "Roma",
+        "brand": "Ferrari",
+        "description": "A grand touring coupe with sleek lines.",
+        "price": 225000
+    },
+    {
+        "name": "Urus",
+        "brand": "Lamborghini",
+        "description": "A luxury SUV with insane power.",
+        "price": 250000
+    }
+]
